@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "New youtube stream",
+      "description": "Youtube for dummies!",
+      "userId": "103830500003282220660",
+      "id": 1
+    },
+    {
+      "title": "Some other stream",
+      "description": "Also for dummies!!",
+      "userId": "103830500003282220660",
+      "id": 2
+    },
+    {
+      "title": "React for dummies",
+      "description": "React/Redux description",
+      "userId": "103830500003282220660",
+      "id": 3
+    },
+    {
+      "title": "Some new Stream",
+      "description": "Awesome Stream",
+      "userId": "103830500003282220660",
+      "id": 4
+    },
+    {
+      "title": "Stream no 19",
+      "description": "Description for Stream no 19",
+      "userId": "103830500003282220660",
+      "id": 6
+    },
+    {
+      "title": "Google Stream",
+      "description": "Google Stream in Action",
+      "userId": "103830500003282220660",
+      "id": 7
+    }
+  ]
+}
